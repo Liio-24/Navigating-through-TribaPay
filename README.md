@@ -1,6 +1,3 @@
-# Navigating-through-TribaPay
-User Experience 
-
 ## About TribaPay
 
 TribaPay is a digital wallet that can be used both on mobile devices and desktops. There are a lot of payment apps that are available for use today, but TribaPay stands out in the unique features that it provides.  
